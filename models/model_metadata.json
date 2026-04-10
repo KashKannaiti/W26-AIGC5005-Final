@@ -1,0 +1,7 @@
+{
+  "best_model_name": "XGBoost",
+  "best_f1": 0.2737,
+  "feature_count": 53,
+  "test_size": 19899,
+  "positive_rate": 0.1123
+}
