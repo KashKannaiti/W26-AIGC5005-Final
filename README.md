@@ -258,6 +258,22 @@ The app is fully responsive and works on iOS and Android.
 
 ---
 
+## Team Members
+Fadi Kash Kannaiti — Project Lead & Report Writer
+Ogbeide Iria — Data Engineer & Results Lead
+Oguzhan Tekin — ML Researcher & Analyst
+Sara Yenigun — QA, Documentation & Presenter
+
+## Key Takeaways
+XGBoost was the strongest overall model for this dataset.
+Deep learning required threshold calibration to show its practical value.
+F1-score and Recall are much more meaningful than Accuracy in imbalanced medical prediction.
+Explainability and deployment are essential for moving from research to usable healthcare AI.
+Academic Disclaimer
+
+This project was created for academic purposes only as part of AIGC 5005 at Humber Polytechnic.
+
+It is not a certified medical device and must not be used for clinical diagnosis, treatment, or patient care decisions. The model was trained on historical de-identified data from 1999–2008.
 
 ## References
 
