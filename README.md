@@ -207,7 +207,11 @@ The best-performing model was deployed as a **public Streamlit app**.
 ├── requirements.txt
 └── README.md
 
-## How to Run the Notebooks (Google Colab)
+
+
+---
+
+# How to Run the Notebooks (Google Colab)
 
 1. Open [Google Colab](https://colab.research.google.com)
 2. Upload `diabetic_data.csv` to `/content/` using the file panel
@@ -219,7 +223,6 @@ preprocessing pipeline automatically, so you do not need to run Notebooks 01–0
 first. However, running all four in order gives you the complete set of output
 charts for the report.
 
----
 
 ## How to Run the App Locally
 
@@ -241,7 +244,6 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501` in your browser.
 
----
 
 ## How to Deploy on Streamlit Community Cloud (Free)
 
