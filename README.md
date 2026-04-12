@@ -195,21 +195,6 @@ The best-performing model was deployed as a **public Streamlit app**.
 
 ---
 
-## Project Structure
-
-```bash
-├── data/
-├── notebooks/
-├── models/
-├── app/
-│   └── streamlit_app.py
-├── images/
-├── requirements.txt
-└── README.md
-
-
-
----
 
 # How to Run the Notebooks (Google Colab)
 
