@@ -248,6 +248,7 @@ Share this URL in your report and video presentation.
 > large — if over 100 MB, use [Git LFS](https://git-lfs.com/) or host the
 > model on Google Drive and load it programmatically in `app.py`.
 
+https://w26-aigc5005-final-ep8i66n6nez3543zo2iert.streamlit.app/
 ---
 
 ## How to Access on Mobile
